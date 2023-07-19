@@ -1,0 +1,34 @@
+_repo: The-British-soldier-b-his-courage-and-humour_71010
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Hardy, E. J. (Edward John)
+    aliases:
+    - Hardy, Edward John
+    - Hardy, Edward J.
+    birthdate: 1849
+    deathdate: 1920
+    gutenberg_agent_id: '37736'
+    url: http://www.gutenberg.org/2009/agents/37736
+description: ''
+gutenberg_issued: '2023-06-21'
+identifiers:
+  gutenberg: '71010'
+  lccn: a15002710
+language: en
+pgterms:marc904: https://babel.hathitrust.org/cgi/pt?id=uc2.ark:/13960/t56d5sj36&view=1up&seq=17
+pgterms:marc905: 20191118224649hardy
+pgterms:marc906: '1915'
+production_note: Brian Coe, Graeme Mackreth and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This book was produced from images made available
+  by the HathiTrust Digital Library.)
+publication_note: '  $bT. Fisher Unwin, $c1915.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'World War, 1914-1918'
+- !lcc 'D501'
+- GITenberg
+title: 'The British soldier : $b his courage and humour'
+url: http://www.gutenberg.org/ebooks/71010
