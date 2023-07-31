@@ -1,5 +1,8 @@
 _repo: The-British-soldier-b-his-courage-and-humour_71010
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 71010-h/images/cover.jpg
 creator:
   author:
     agent_name: Hardy, E. J. (Edward John)
@@ -11,6 +14,8 @@ creator:
     gutenberg_agent_id: '37736'
     url: http://www.gutenberg.org/2009/agents/37736
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/71010#The-British-soldier-b-his-courage-and-humour
 gutenberg_issued: '2023-06-21'
 identifiers:
   gutenberg: '71010'
